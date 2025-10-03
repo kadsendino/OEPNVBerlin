@@ -1,0 +1,1999 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-03T18:59:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/90078",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "description": "Kruggasse - Spreewiesen",
+        "duration": "00:05",
+        "foot": "yes",
+        "from": "Kruggasse",
+        "motor_vehicle": "no",
+        "name": "Fähre F24: Kruggasse => Spreewiesen",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "public_transport:version": "2",
+        "ref": "F24",
+        "route": "ferry",
+        "to": "Spreewiesen",
+        "type": "route",
+        "wikidata": "Q66967658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6890728,
+            52.4299274
+          ],
+          [
+            13.6891259,
+            52.4298128
+          ],
+          [
+            13.6891275,
+            52.4297694
+          ],
+          [
+            13.6891065,
+            52.4297141
+          ],
+          [
+            13.6890093,
+            52.4296093
+          ]
+        ]
+      },
+      "id": "relation/90078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2690005",
+        "bicycle": "yes",
+        "bicycle:trailer": "no",
+        "colour": "#0080BA",
+        "description": "Alt-Kladow-Wannsee",
+        "duration": "00:20",
+        "from": "Alt-Kladow",
+        "interval": "00:60",
+        "name": "Fähre F10: Alt-Kladow => Wannsee",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "not:network:wikidata": "Q315451",
+        "opening_hours": "Mar 21-Dec 20: Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 09:00-20:00; Dec 21-Mar 20: Mo-Fr 06:00-19:00, Sa 07:00-19:00, Su 09:00-19:00",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "public_transport:version": "2",
+        "ref": "F10",
+        "route": "ferry",
+        "to": "Wannsee",
+        "toll": "no",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1484204,
+            52.4510947
+          ],
+          [
+            13.148125,
+            52.4504264
+          ],
+          [
+            13.148045,
+            52.4497422
+          ],
+          [
+            13.1484449,
+            52.4490341
+          ],
+          [
+            13.1614625,
+            52.4408455
+          ],
+          [
+            13.1651013,
+            52.4383215
+          ],
+          [
+            13.1682439,
+            52.4357607
+          ],
+          [
+            13.1695463,
+            52.4343653
+          ],
+          [
+            13.1702395,
+            52.4332574
+          ],
+          [
+            13.1708358,
+            52.4316571
+          ],
+          [
+            13.1713299,
+            52.4297493
+          ],
+          [
+            13.1727272,
+            52.4233904
+          ],
+          [
+            13.1731405,
+            52.4225326
+          ],
+          [
+            13.1738383,
+            52.4220326
+          ],
+          [
+            13.1746881,
+            52.4220161
+          ],
+          [
+            13.1752021,
+            52.4221584
+          ]
+        ]
+      },
+      "id": "relation/2690005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2690006",
+        "bicycle": "yes",
+        "bicycle:trailer": "no",
+        "colour": "#0080BA",
+        "description": "Wannsee - Alt-Kladow",
+        "from": "Wannsee",
+        "name": "Fähre F10: Wannsee => Alt-Kladow",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "not:network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "public_transport:version": "2",
+        "ref": "F10",
+        "route": "ferry",
+        "to": "Alt-Kladow",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1752021,
+            52.4221584
+          ],
+          [
+            13.1753295,
+            52.4224721
+          ],
+          [
+            13.1756786,
+            52.4237716
+          ],
+          [
+            13.1757861,
+            52.4249289
+          ],
+          [
+            13.1754222,
+            52.4263556
+          ],
+          [
+            13.1748254,
+            52.4277234
+          ],
+          [
+            13.1713046,
+            52.4334126
+          ],
+          [
+            13.1703352,
+            52.4348481
+          ],
+          [
+            13.1690905,
+            52.4360761
+          ],
+          [
+            13.1633177,
+            52.4405738
+          ],
+          [
+            13.1602195,
+            52.4428246
+          ],
+          [
+            13.1586034,
+            52.4442343
+          ],
+          [
+            13.157738,
+            52.4451711
+          ],
+          [
+            13.1572266,
+            52.446096
+          ],
+          [
+            13.1564639,
+            52.4484224
+          ],
+          [
+            13.1557234,
+            52.4501743
+          ],
+          [
+            13.154933,
+            52.4511239
+          ],
+          [
+            13.153823,
+            52.451705
+          ],
+          [
+            13.1525843,
+            52.4519627
+          ],
+          [
+            13.1516262,
+            52.4519535
+          ],
+          [
+            13.1505538,
+            52.4518628
+          ],
+          [
+            13.1494299,
+            52.4515348
+          ],
+          [
+            13.1484204,
+            52.4510947
+          ]
+        ]
+      },
+      "id": "relation/2690006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6603023",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "duration": "00:05",
+        "foot": "yes",
+        "from": "Spreewiesen",
+        "motor_vehicle": "no",
+        "name": "Fähre F24: Spreewiesen => Kruggasse",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "public_transport:version": "2",
+        "ref": "F24",
+        "route": "ferry",
+        "to": "Kruggasse",
+        "type": "route",
+        "wikidata": "Q66967658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6890093,
+            52.4296093
+          ],
+          [
+            13.6890824,
+            52.4297479
+          ],
+          [
+            13.6890973,
+            52.4298083
+          ],
+          [
+            13.6890728,
+            52.4299274
+          ]
+        ]
+      },
+      "id": "relation/6603023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445405",
+        "colour": "#0080BA",
+        "duration": "00:02",
+        "foot": "yes",
+        "from": "Wilhelmstrand",
+        "motor_vehicle": "no",
+        "name": "Fähre F11: Wilhelmstrand => Baumschulenstraße/Fähre",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "public_transport:version": "2",
+        "ref": "F11",
+        "route": "ferry",
+        "to": "Baumschulenstraße/Fähre",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4949918,
+            52.4728282
+          ],
+          [
+            13.496726,
+            52.4740881
+          ]
+        ]
+      },
+      "id": "relation/9445405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445406",
+        "colour": "#0080BA",
+        "duration": "00:02",
+        "foot": "yes",
+        "from": "Baumschulenstraße/Fähre",
+        "motor_vehicle": "no",
+        "name": "Fähre F11: Baumschulenstraße/Fähre => Wilhelmstrand",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "public_transport:version": "2",
+        "ref": "F11",
+        "route": "ferry",
+        "to": "Wilhelmstrand",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4949918,
+            52.4728282
+          ],
+          [
+            13.496726,
+            52.4740881
+          ]
+        ]
+      },
+      "id": "relation/9445406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445410",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "duration": "00:02",
+        "foot": "yes",
+        "from": "Wassersportallee",
+        "motor_vehicle": "no",
+        "name": "Fähre F12: Wassersportallee => Müggelbergallee",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "public_transport:version": "2",
+        "ref": "F12",
+        "route": "ferry",
+        "to": "Müggelbergallee",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5831454,
+            52.4175781
+          ],
+          [
+            13.5865384,
+            52.4184793
+          ]
+        ]
+      },
+      "id": "relation/9445410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445411",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "duration": "00:02",
+        "foot": "yes",
+        "from": "Müggelbergallee",
+        "motor_vehicle": "no",
+        "name": "Fähre F12: Müggelbergallee => Wassersportallee",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "public_transport:version": "2",
+        "ref": "F12",
+        "route": "ferry",
+        "to": "Wassersportallee",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5831454,
+            52.4175781
+          ],
+          [
+            13.5865384,
+            52.4184793
+          ]
+        ]
+      },
+      "id": "relation/9445411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445419",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "duration": "00:25",
+        "foot": "yes",
+        "from": "Müggelwerderweg",
+        "motor_vehicle": "no",
+        "name": "Fähre F23: Müggelwerderweg => Kruggasse",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "public_transport:version": "2",
+        "ref": "F23",
+        "route": "ferry",
+        "to": "Kruggasse",
+        "type": "route",
+        "wikidata": "Q66971377"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6890728,
+            52.4299274
+          ],
+          [
+            13.6890623,
+            52.429835
+          ],
+          [
+            13.6890418,
+            52.4297797
+          ],
+          [
+            13.688974,
+            52.4297217
+          ],
+          [
+            13.6876548,
+            52.4292661
+          ],
+          [
+            13.6869521,
+            52.4290374
+          ],
+          [
+            13.6865231,
+            52.4289677
+          ],
+          [
+            13.686346,
+            52.4289438
+          ],
+          [
+            13.6857285,
+            52.4289008
+          ],
+          [
+            13.6843614,
+            52.4290218
+          ],
+          [
+            13.6837162,
+            52.4290702
+          ],
+          [
+            13.6835775,
+            52.4290703
+          ],
+          [
+            13.6834574,
+            52.4290333
+          ],
+          [
+            13.6833482,
+            52.4289316
+          ],
+          [
+            13.6833153,
+            52.4290654
+          ],
+          [
+            13.6832049,
+            52.4291413
+          ],
+          [
+            13.6830034,
+            52.4292115
+          ],
+          [
+            13.6820908,
+            52.429468
+          ],
+          [
+            13.6788178,
+            52.4308036
+          ],
+          [
+            13.6775525,
+            52.431647
+          ],
+          [
+            13.6760279,
+            52.433319
+          ],
+          [
+            13.6758272,
+            52.4332993
+          ],
+          [
+            13.6759823,
+            52.4333656
+          ],
+          [
+            13.6760237,
+            52.4336163
+          ],
+          [
+            13.6760333,
+            52.433936
+          ],
+          [
+            13.6761551,
+            52.4340485
+          ],
+          [
+            13.6763365,
+            52.4341516
+          ],
+          [
+            13.6765896,
+            52.4342314
+          ],
+          [
+            13.6769468,
+            52.4342831
+          ],
+          [
+            13.6775157,
+            52.4342346
+          ],
+          [
+            13.6781763,
+            52.4340953
+          ],
+          [
+            13.6793173,
+            52.4337737
+          ],
+          [
+            13.6797316,
+            52.4336895
+          ],
+          [
+            13.6801863,
+            52.4337203
+          ],
+          [
+            13.6803818,
+            52.4337457
+          ],
+          [
+            13.6806612,
+            52.4338408
+          ],
+          [
+            13.680989,
+            52.4340877
+          ],
+          [
+            13.6810956,
+            52.4345705
+          ],
+          [
+            13.6810417,
+            52.434968
+          ],
+          [
+            13.680918,
+            52.4354818
+          ],
+          [
+            13.6806888,
+            52.4360057
+          ],
+          [
+            13.6805003,
+            52.4363044
+          ],
+          [
+            13.6805509,
+            52.4363258
+          ]
+        ]
+      },
+      "id": "relation/9445419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445420",
+        "bicycle": "yes",
+        "colour": "#0080BA",
+        "duration": "00:25",
+        "foot": "yes",
+        "from": "Kruggasse",
+        "motor_vehicle": "no",
+        "name": "Fähre F23: Kruggasse => Müggelwerderweg",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "public_transport:version": "2",
+        "ref": "F23",
+        "route": "ferry",
+        "to": "Müggelwerderweg",
+        "type": "route",
+        "wikidata": "Q66971377"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6890728,
+            52.4299274
+          ],
+          [
+            13.6890623,
+            52.429835
+          ],
+          [
+            13.6890418,
+            52.4297797
+          ],
+          [
+            13.688974,
+            52.4297217
+          ],
+          [
+            13.6876548,
+            52.4292661
+          ],
+          [
+            13.6869521,
+            52.4290374
+          ],
+          [
+            13.6865231,
+            52.4289677
+          ],
+          [
+            13.686346,
+            52.4289438
+          ],
+          [
+            13.6857285,
+            52.4289008
+          ],
+          [
+            13.6843614,
+            52.4290218
+          ],
+          [
+            13.6837162,
+            52.4290702
+          ],
+          [
+            13.6835775,
+            52.4290703
+          ],
+          [
+            13.6834574,
+            52.4290333
+          ],
+          [
+            13.6833482,
+            52.4289316
+          ],
+          [
+            13.6833153,
+            52.4290654
+          ],
+          [
+            13.6832049,
+            52.4291413
+          ],
+          [
+            13.6830034,
+            52.4292115
+          ],
+          [
+            13.6820908,
+            52.429468
+          ],
+          [
+            13.6788178,
+            52.4308036
+          ],
+          [
+            13.6775525,
+            52.431647
+          ],
+          [
+            13.6760279,
+            52.433319
+          ],
+          [
+            13.6758272,
+            52.4332993
+          ],
+          [
+            13.6759823,
+            52.4333656
+          ],
+          [
+            13.6760237,
+            52.4336163
+          ],
+          [
+            13.6760333,
+            52.433936
+          ],
+          [
+            13.6761551,
+            52.4340485
+          ],
+          [
+            13.6763365,
+            52.4341516
+          ],
+          [
+            13.6765896,
+            52.4342314
+          ],
+          [
+            13.6769468,
+            52.4342831
+          ],
+          [
+            13.6775157,
+            52.4342346
+          ],
+          [
+            13.6781763,
+            52.4340953
+          ],
+          [
+            13.6793173,
+            52.4337737
+          ],
+          [
+            13.6797316,
+            52.4336895
+          ],
+          [
+            13.6801863,
+            52.4337203
+          ],
+          [
+            13.6803818,
+            52.4337457
+          ],
+          [
+            13.6806612,
+            52.4338408
+          ],
+          [
+            13.680989,
+            52.4340877
+          ],
+          [
+            13.6810956,
+            52.4345705
+          ],
+          [
+            13.6810417,
+            52.434968
+          ],
+          [
+            13.680918,
+            52.4354818
+          ],
+          [
+            13.6806888,
+            52.4360057
+          ],
+          [
+            13.6805003,
+            52.4363044
+          ],
+          [
+            13.6805509,
+            52.4363258
+          ]
+        ]
+      },
+      "id": "relation/9445420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445421",
+        "bicycle": "yes",
+        "check_date": "2023-07-12",
+        "colour": "#0080BA",
+        "duration": "00:07",
+        "foot": "yes",
+        "from": "Zum Seeblick",
+        "name": "Fähre F21: Zum Seeblick => Krampenburg",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "public_transport:version": "2",
+        "ref": "F21",
+        "route": "ferry",
+        "to": "Krampenburg",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6452228,
+            52.3828949
+          ],
+          [
+            13.646975,
+            52.3837625
+          ],
+          [
+            13.6489707,
+            52.3845944
+          ],
+          [
+            13.6493721,
+            52.3847727
+          ],
+          [
+            13.6499203,
+            52.3851115
+          ],
+          [
+            13.6506522,
+            52.3856655
+          ],
+          [
+            13.6507864,
+            52.38579
+          ],
+          [
+            13.6509016,
+            52.3859875
+          ],
+          [
+            13.6509958,
+            52.3862142
+          ],
+          [
+            13.6509902,
+            52.3863826
+          ],
+          [
+            13.6509528,
+            52.38655
+          ],
+          [
+            13.6508558,
+            52.3868071
+          ],
+          [
+            13.6507305,
+            52.3871398
+          ],
+          [
+            13.6501436,
+            52.3882879
+          ],
+          [
+            13.6500366,
+            52.3885215
+          ],
+          [
+            13.6498957,
+            52.3887352
+          ],
+          [
+            13.6496372,
+            52.3889939
+          ]
+        ]
+      },
+      "id": "relation/9445421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9445422",
+        "bicycle": "yes",
+        "check_date": "2023-07-12",
+        "colour": "#0080BA",
+        "duration": "00:07",
+        "foot": "yes",
+        "from": "Krampenburg",
+        "name": "Fähre F21: Krampenburg => Zum Seeblick",
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "public_transport:version": "2",
+        "ref": "F21",
+        "route": "ferry",
+        "to": "Zum Seeblick",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6452228,
+            52.3828949
+          ],
+          [
+            13.646975,
+            52.3837625
+          ],
+          [
+            13.6489707,
+            52.3845944
+          ],
+          [
+            13.6493721,
+            52.3847727
+          ],
+          [
+            13.6499203,
+            52.3851115
+          ],
+          [
+            13.6506522,
+            52.3856655
+          ],
+          [
+            13.6507864,
+            52.38579
+          ],
+          [
+            13.6509016,
+            52.3859875
+          ],
+          [
+            13.6509958,
+            52.3862142
+          ],
+          [
+            13.6509902,
+            52.3863826
+          ],
+          [
+            13.6509528,
+            52.38655
+          ],
+          [
+            13.6508558,
+            52.3868071
+          ],
+          [
+            13.6507305,
+            52.3871398
+          ],
+          [
+            13.6501436,
+            52.3882879
+          ],
+          [
+            13.6500366,
+            52.3885215
+          ],
+          [
+            13.6498957,
+            52.3887352
+          ],
+          [
+            13.6496372,
+            52.3889939
+          ]
+        ]
+      },
+      "id": "relation/9445422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31493178",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445419,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Müggelwerderweg",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Müggelwerderweg => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445420,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Kruggasse => Müggelwerderweg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Müggelwerderweg",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6833482,
+          52.4289316
+        ]
+      },
+      "id": "node/31493178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31493192",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445419,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Müggelwerderweg",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Müggelwerderweg => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445420,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Kruggasse => Müggelwerderweg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Müggelwerderweg",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6805509,
+          52.4363258
+        ]
+      },
+      "id": "node/31493192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/199398771",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445410,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Wassersportallee",
+              "motor_vehicle": "no",
+              "name": "Fähre F12: Wassersportallee => Müggelbergallee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F12",
+              "route": "ferry",
+              "to": "Müggelbergallee",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445411,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Müggelbergallee",
+              "motor_vehicle": "no",
+              "name": "Fähre F12: Müggelbergallee => Wassersportallee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F12",
+              "route": "ferry",
+              "to": "Wassersportallee",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5865384,
+          52.4184793
+        ]
+      },
+      "id": "node/199398771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/206243199",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2690005,
+            "reltags": {
+              "bicycle": "yes",
+              "bicycle:trailer": "no",
+              "colour": "#0080BA",
+              "description": "Alt-Kladow-Wannsee",
+              "duration": "00:20",
+              "from": "Alt-Kladow",
+              "interval": "00:60",
+              "name": "Fähre F10: Alt-Kladow => Wannsee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "not:network:wikidata": "Q315451",
+              "opening_hours": "Mar 21-Dec 20: Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 09:00-20:00; Dec 21-Mar 20: Mo-Fr 06:00-19:00, Sa 07:00-19:00, Su 09:00-19:00",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "public_transport:version": "2",
+              "ref": "F10",
+              "route": "ferry",
+              "to": "Wannsee",
+              "toll": "no",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2690006,
+            "reltags": {
+              "bicycle": "yes",
+              "bicycle:trailer": "no",
+              "colour": "#0080BA",
+              "description": "Wannsee - Alt-Kladow",
+              "from": "Wannsee",
+              "name": "Fähre F10: Wannsee => Alt-Kladow",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "not:network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "public_transport:version": "2",
+              "ref": "F10",
+              "route": "ferry",
+              "to": "Alt-Kladow",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1752021,
+          52.4221584
+        ]
+      },
+      "id": "node/206243199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/206243216",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2690005,
+            "reltags": {
+              "bicycle": "yes",
+              "bicycle:trailer": "no",
+              "colour": "#0080BA",
+              "description": "Alt-Kladow-Wannsee",
+              "duration": "00:20",
+              "from": "Alt-Kladow",
+              "interval": "00:60",
+              "name": "Fähre F10: Alt-Kladow => Wannsee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "not:network:wikidata": "Q315451",
+              "opening_hours": "Mar 21-Dec 20: Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 09:00-20:00; Dec 21-Mar 20: Mo-Fr 06:00-19:00, Sa 07:00-19:00, Su 09:00-19:00",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "public_transport:version": "2",
+              "ref": "F10",
+              "route": "ferry",
+              "to": "Wannsee",
+              "toll": "no",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2690006,
+            "reltags": {
+              "bicycle": "yes",
+              "bicycle:trailer": "no",
+              "colour": "#0080BA",
+              "description": "Wannsee - Alt-Kladow",
+              "from": "Wannsee",
+              "name": "Fähre F10: Wannsee => Alt-Kladow",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "not:network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "public_transport:version": "2",
+              "ref": "F10",
+              "route": "ferry",
+              "to": "Alt-Kladow",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1484204,
+          52.4510947
+        ]
+      },
+      "id": "node/206243216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262882408",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445421,
+            "reltags": {
+              "bicycle": "yes",
+              "check_date": "2023-07-12",
+              "colour": "#0080BA",
+              "duration": "00:07",
+              "foot": "yes",
+              "from": "Zum Seeblick",
+              "name": "Fähre F21: Zum Seeblick => Krampenburg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F21",
+              "route": "ferry",
+              "to": "Krampenburg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445422,
+            "reltags": {
+              "bicycle": "yes",
+              "check_date": "2023-07-12",
+              "colour": "#0080BA",
+              "duration": "00:07",
+              "foot": "yes",
+              "from": "Krampenburg",
+              "name": "Fähre F21: Krampenburg => Zum Seeblick",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F21",
+              "route": "ferry",
+              "to": "Zum Seeblick",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6452228,
+          52.3828949
+        ]
+      },
+      "id": "node/262882408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1051302891",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445410,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Wassersportallee",
+              "motor_vehicle": "no",
+              "name": "Fähre F12: Wassersportallee => Müggelbergallee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F12",
+              "route": "ferry",
+              "to": "Müggelbergallee",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445411,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Müggelbergallee",
+              "motor_vehicle": "no",
+              "name": "Fähre F12: Müggelbergallee => Wassersportallee",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F12",
+              "route": "ferry",
+              "to": "Wassersportallee",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5831454,
+          52.4175781
+        ]
+      },
+      "id": "node/1051302891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1219574966",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445419,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Müggelwerderweg",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Müggelwerderweg => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445420,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Kruggasse => Müggelwerderweg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Müggelwerderweg",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6758272,
+          52.4332993
+        ]
+      },
+      "id": "node/1219574966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2045908036",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445421,
+            "reltags": {
+              "bicycle": "yes",
+              "check_date": "2023-07-12",
+              "colour": "#0080BA",
+              "duration": "00:07",
+              "foot": "yes",
+              "from": "Zum Seeblick",
+              "name": "Fähre F21: Zum Seeblick => Krampenburg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F21",
+              "route": "ferry",
+              "to": "Krampenburg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445422,
+            "reltags": {
+              "bicycle": "yes",
+              "check_date": "2023-07-12",
+              "colour": "#0080BA",
+              "duration": "00:07",
+              "foot": "yes",
+              "from": "Krampenburg",
+              "name": "Fähre F21: Krampenburg => Zum Seeblick",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F21",
+              "route": "ferry",
+              "to": "Zum Seeblick",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6496372,
+          52.3889939
+        ]
+      },
+      "id": "node/2045908036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2423981371",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 90078,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "description": "Kruggasse - Spreewiesen",
+              "duration": "00:05",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F24: Kruggasse => Spreewiesen",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F24",
+              "route": "ferry",
+              "to": "Spreewiesen",
+              "type": "route",
+              "wikidata": "Q66967658"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 6603023,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:05",
+              "foot": "yes",
+              "from": "Spreewiesen",
+              "motor_vehicle": "no",
+              "name": "Fähre F24: Spreewiesen => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F24",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66967658"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445419,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Müggelwerderweg",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Müggelwerderweg => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445420,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:25",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F23: Kruggasse => Müggelwerderweg",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F23",
+              "route": "ferry",
+              "to": "Müggelwerderweg",
+              "type": "route",
+              "wikidata": "Q66971377"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6890728,
+          52.4299274
+        ]
+      },
+      "id": "node/2423981371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2423981375",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 90078,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "description": "Kruggasse - Spreewiesen",
+              "duration": "00:05",
+              "foot": "yes",
+              "from": "Kruggasse",
+              "motor_vehicle": "no",
+              "name": "Fähre F24: Kruggasse => Spreewiesen",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F24",
+              "route": "ferry",
+              "to": "Spreewiesen",
+              "type": "route",
+              "wikidata": "Q66967658"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 6603023,
+            "reltags": {
+              "bicycle": "yes",
+              "colour": "#0080BA",
+              "duration": "00:05",
+              "foot": "yes",
+              "from": "Spreewiesen",
+              "motor_vehicle": "no",
+              "name": "Fähre F24: Spreewiesen => Kruggasse",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "public_transport:version": "2",
+              "ref": "F24",
+              "route": "ferry",
+              "to": "Kruggasse",
+              "type": "route",
+              "wikidata": "Q66967658"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6890093,
+          52.4296093
+        ]
+      },
+      "id": "node/2423981375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832108171",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445405,
+            "reltags": {
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Wilhelmstrand",
+              "motor_vehicle": "no",
+              "name": "Fähre F11: Wilhelmstrand => Baumschulenstraße/Fähre",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F11",
+              "route": "ferry",
+              "to": "Baumschulenstraße/Fähre",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445406,
+            "reltags": {
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Baumschulenstraße/Fähre",
+              "motor_vehicle": "no",
+              "name": "Fähre F11: Baumschulenstraße/Fähre => Wilhelmstrand",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F11",
+              "route": "ferry",
+              "to": "Wilhelmstrand",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4949918,
+          52.4728282
+        ]
+      },
+      "id": "node/2832108171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832109005",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 9445405,
+            "reltags": {
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Wilhelmstrand",
+              "motor_vehicle": "no",
+              "name": "Fähre F11: Wilhelmstrand => Baumschulenstraße/Fähre",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F11",
+              "route": "ferry",
+              "to": "Baumschulenstraße/Fähre",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 9445406,
+            "reltags": {
+              "colour": "#0080BA",
+              "duration": "00:02",
+              "foot": "yes",
+              "from": "Baumschulenstraße/Fähre",
+              "motor_vehicle": "no",
+              "name": "Fähre F11: Baumschulenstraße/Fähre => Wilhelmstrand",
+              "network": "Verkehrsverbund Berlin-Brandenburg",
+              "network:short": "VBB",
+              "network:wikidata": "Q315451",
+              "network:wikipedia": "de:Verkehrsverbund Berlin-Brandenburg",
+              "operator": "Berliner Verkehrsbetriebe",
+              "operator:short": "BVG",
+              "operator:wikidata": "Q99633",
+              "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+              "public_transport:version": "2",
+              "ref": "F11",
+              "route": "ferry",
+              "to": "Wilhelmstrand",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.496726,
+          52.4740881
+        ]
+      },
+      "id": "node/2832109005"
+    }
+  ]
+}
