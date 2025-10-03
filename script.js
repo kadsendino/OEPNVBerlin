@@ -6,25 +6,26 @@ const lng = 13.3855;
 
 
 // === Tile Layers ===
-var Stadia_AlidadeSmooth = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.{ext}', {
-	minZoom: 0,
-	maxZoom: 20,
-	attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	ext: 'png'
-});
+var OpenStreetMap_HOT = L.tileLayer(
+  'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+  {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+                 'Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> ' +
+                 'hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
+  }
+);
 
-var Stadia_AlidadeSmoothDark = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.{ext}', {
-	minZoom: 0,
-	maxZoom: 20,
-	attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	ext: 'png'
-});
+var landMap = L.tileLayer(
+  "https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png",
+  { attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> Contributors & <a href="http://cartodb.com/attributions">CartoDB</a>' }
+);
 
 // === Map Configuration ===
 let config = {
   minZoom: 7,
   maxZoom: 18,
-  layers: [Stadia_AlidadeSmooth], // Default initial layer
+  layers: [OpenStreetMap_HOT], // Default initial layer
 };
 
 // === Base Layers Object for Layer Control ===
@@ -33,8 +34,8 @@ var baseLayers = {
   // "OSM Mapnik": osmMap,
   // "CartoDB": landMap,
   // "Berlin": degreyMap,
-  "Light": Stadia_AlidadeSmooth,
-  "Dark": Stadia_AlidadeSmoothDark,
+  "Light": OpenStreetMap_HOT,
+  "Dark": landMap,
 };
 
 // === SVG Marker Template ===
