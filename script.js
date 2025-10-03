@@ -57,8 +57,9 @@ function add_layer(file,name){
       "U-Bahn": "#FF00FF",   
       "S-Bahn": "#018A47",   
       "Tram": "#BE1414",     
-      "Bus": "#95276E",      
-      "Fähre": "#0080BA"     
+      "Bus": "#95276E",  
+      "Nachtbus": "#595B62",
+      "Fähre": "#0080BA" 
     };
     // Use feature color if available, otherwise default for this layer
     return feature.properties.colour || defaults[name] || "#FF00FF"; // fallback magenta
@@ -103,6 +104,7 @@ add_layer("ubahn.geojson","U-Bahn");
 add_layer("sbahn.geojson","S-Bahn");
 add_layer("tram.geojson","Tram");
 add_layer("bus.geojson","Bus");
+add_layer("nachtbus.geojson","Nachtbus");
 add_layer("ferry.geojson","Fähre");
 
 //-------------------------------------------------------------------
